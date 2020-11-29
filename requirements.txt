@@ -3,11 +3,25 @@
 # NUM_ANALYSIS-master/ARCHIVES/getxy.py: 11
 Pillow == 7.2.0
 
+# NUM_ANALYSIS-master/Projet/.ipynb_checkpoints/FINAL-checkpoint.ipynb: 41
+# NUM_ANALYSIS-master/Projet/FINAL.ipynb: 40
+ipywidgets == 7.5.1
+
 # NUM_ANALYSIS-master/ARCHIVES/IHM.py: 8,11,12
 # NUM_ANALYSIS-master/ARCHIVES/Mine.py: 16,20,21,31
 # NUM_ANALYSIS-master/ARCHIVES/Pack.py: 9
 # NUM_ANALYSIS-master/ARCHIVES/Test_click.py: 8
 # NUM_ANALYSIS-master/ARCHIVES/animationObj.py: 3
+# NUM_ANALYSIS-master/Projet/.ipynb_checkpoints/FINAL-checkpoint.ipynb: 3
+# NUM_ANALYSIS-master/Projet/.ipynb_checkpoints/Mini_Proj-checkpoint.ipynb: 4
+# NUM_ANALYSIS-master/Projet/.ipynb_checkpoints/legend-checkpoint.ipynb: 11,41
+# NUM_ANALYSIS-master/Projet/FINAL.ipynb: 3
+# NUM_ANALYSIS-master/Projet/NUM_ANALYSIS-main/Projects/Integ.py: 7
+# NUM_ANALYSIS-master/Projet/NUM_ANALYSIS-main/Projects/Mine.py: 16,20,21,31
+# NUM_ANALYSIS-master/Projet/NUM_ANALYSIS-main/Projects/RungePh.py: 11,14
+# NUM_ANALYSIS-master/Projet/NUM_ANALYSIS-main/Projects/tk_gui.py: 2,6,7
+# NUM_ANALYSIS-master/Projet/legend.ipynb: 11,41
+# NUM_ANALYSIS-master/Projet/legend.py: 11,41
 # NUM_ANALYSIS-master/TP1/.ipynb_checkpoints/TP1_2DNI-checkpoint.ipynb: 66
 # NUM_ANALYSIS-master/TP1/TP1_2DNI.ipynb: 66
 # NUM_ANALYSIS-master/TP2/.ipynb_checkpoints/TP2_2DNI-checkpoint.ipynb: 41,52
@@ -18,6 +32,16 @@ matplotlib == 3.2.2
 # NUM_ANALYSIS-master/ARCHIVES/Pack.py: 11
 # NUM_ANALYSIS-master/ARCHIVES/animationObj.py: 2
 # NUM_ANALYSIS-master/ARCHIVES/main.py: 2
+# NUM_ANALYSIS-master/Projet/.ipynb_checkpoints/FINAL-checkpoint.ipynb: 1,2
+# NUM_ANALYSIS-master/Projet/.ipynb_checkpoints/Mini_Proj-checkpoint.ipynb: 2,3
+# NUM_ANALYSIS-master/Projet/.ipynb_checkpoints/legend-checkpoint.ipynb: 10
+# NUM_ANALYSIS-master/Projet/FINAL.ipynb: 1,2
+# NUM_ANALYSIS-master/Projet/NUM_ANALYSIS-main/Projects/Integ.py: 9
+# NUM_ANALYSIS-master/Projet/NUM_ANALYSIS-main/Projects/Mine.py: 19
+# NUM_ANALYSIS-master/Projet/NUM_ANALYSIS-main/Projects/RungePh.py: 12
+# NUM_ANALYSIS-master/Projet/NUM_ANALYSIS-main/Projects/tk_gui.py: 5
+# NUM_ANALYSIS-master/Projet/legend.ipynb: 10
+# NUM_ANALYSIS-master/Projet/legend.py: 10
 # NUM_ANALYSIS-master/TP1/.ipynb_checkpoints/TP1_2DNI-checkpoint.ipynb: 41,44,65,102,118
 # NUM_ANALYSIS-master/TP1/TP1_2DNI.ipynb: 41,44,65,102,118
 # NUM_ANALYSIS-master/TP2/.ipynb_checkpoints/TP2_2DNI-checkpoint.ipynb: 1,40,51
@@ -27,8 +51,12 @@ numpy == 1.18.5
 # NUM_ANALYSIS-master/ARCHIVES/Dframe.py: 11
 pandas == 1.0.5
 
+# NUM_ANALYSIS-master/Projet/NUM_ANALYSIS-main/Projects/Integ.py: 8
+scipy == 1.5.0
+
 # NUM_ANALYSIS-master/ARCHIVES/Mine.py: 24,27,28
 # NUM_ANALYSIS-master/ARCHIVES/dictionaries.py: 1,2
+# NUM_ANALYSIS-master/Projet/NUM_ANALYSIS-main/Projects/Mine.py: 24,27,28
 # NUM_ANALYSIS-master/TP1/.ipynb_checkpoints/TP1_2DNI-checkpoint.ipynb: 101,135,136
 # NUM_ANALYSIS-master/TP1/TP1_2DNI.ipynb: 101,135,136
 sympy == 1.6.1
