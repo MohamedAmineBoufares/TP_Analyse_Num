@@ -4,7 +4,6 @@
 Pillow == 7.2.0
 
 # NUM_ANALYSIS-master/Mini_Projet/.ipynb_checkpoints/FINAL-checkpoint.ipynb: 41
-# NUM_ANALYSIS-master/Mini_Projet/.ipynb_checkpoints/Mini_Proj_V1-checkpoint.ipynb: 7
 # NUM_ANALYSIS-master/Mini_Projet/Help/FINAL.ipynb: 40
 ipywidgets == 7.5.1
 
@@ -15,7 +14,6 @@ ipywidgets == 7.5.1
 # NUM_ANALYSIS-master/ARCHIVES/animationObj.py: 3
 # NUM_ANALYSIS-master/Mini_Projet/.ipynb_checkpoints/FINAL-checkpoint.ipynb: 3
 # NUM_ANALYSIS-master/Mini_Projet/.ipynb_checkpoints/Mini_Proj-checkpoint.ipynb: 4
-# NUM_ANALYSIS-master/Mini_Projet/.ipynb_checkpoints/Mini_Proj_V1-checkpoint.ipynb: 6
 # NUM_ANALYSIS-master/Mini_Projet/.ipynb_checkpoints/legend-checkpoint.ipynb: 11,41
 # NUM_ANALYSIS-master/Mini_Projet/Help/FINAL.ipynb: 3
 # NUM_ANALYSIS-master/Mini_Projet/Help/legend.ipynb: 11,41
@@ -36,7 +34,6 @@ matplotlib == 3.2.2
 # NUM_ANALYSIS-master/ARCHIVES/main.py: 2
 # NUM_ANALYSIS-master/Mini_Projet/.ipynb_checkpoints/FINAL-checkpoint.ipynb: 1,2
 # NUM_ANALYSIS-master/Mini_Projet/.ipynb_checkpoints/Mini_Proj-checkpoint.ipynb: 2,3
-# NUM_ANALYSIS-master/Mini_Projet/.ipynb_checkpoints/Mini_Proj_V1-checkpoint.ipynb: 4,5
 # NUM_ANALYSIS-master/Mini_Projet/.ipynb_checkpoints/legend-checkpoint.ipynb: 10
 # NUM_ANALYSIS-master/Mini_Projet/Help/FINAL.ipynb: 1,2
 # NUM_ANALYSIS-master/Mini_Projet/Help/legend.ipynb: 10
