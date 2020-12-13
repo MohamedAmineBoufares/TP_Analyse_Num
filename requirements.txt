@@ -5,8 +5,8 @@ Pillow == 7.2.0
 
 # NUM_ANALYSIS-master/Mini_Projet/.ipynb_checkpoints/FINAL-checkpoint.ipynb: 41
 # NUM_ANALYSIS-master/Mini_Projet/Help/FINAL.ipynb: 40
-ipywidgets == 7.5.1
-
+ipywidgets == 7.5.1i
+ipympl == 0.5.8
 # NUM_ANALYSIS-master/ARCHIVES/IHM.py: 8,11,12
 # NUM_ANALYSIS-master/ARCHIVES/Mine.py: 16,20,21,31
 # NUM_ANALYSIS-master/ARCHIVES/Pack.py: 9
